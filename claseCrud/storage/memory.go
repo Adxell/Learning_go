@@ -1,5 +1,5 @@
 package storage 
-import "Learning_go/claseCrud/model"
+import "claseCrud/model"
 
 type Memory struct{
 	currentID int 
