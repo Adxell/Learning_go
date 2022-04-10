@@ -1,5 +1,5 @@
 package storage 
-import "claseCrud/model"
+import "./model"
 
 type Memory struct{
 	currentID int 
